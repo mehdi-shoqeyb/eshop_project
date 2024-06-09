@@ -4,8 +4,8 @@
 
 0. First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/suhailvs/django-whatsapp
-cd django-whatsapp
+https://github.com/mehdi-shoqeyb/eshop_proejct.git
+cd eshop_proejct
 ```
 
 1. Ideally, create a [virtualenv](https://docs.python-guide.org/dev/virtualenvs/) and install the projects dependencies:
@@ -23,12 +23,4 @@ pip install -r requirements.txt
 ```bash
 ./manage.py migrate
 ./manage.py runserver
-```
-
-4. Optional: Install and Start Redis Server
-```bash
-sudo add-apt-repository ppa:redislabs/redis
-sudo apt-get update
-sudo apt-get install redis
-redis-server
 ```
