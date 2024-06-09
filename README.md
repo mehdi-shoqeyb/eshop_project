@@ -1,2 +1,5 @@
 # eshop_proejct
-سایت فروشگاهی
+
+use this code to install packages
+
+pip install -r requirements.txt
