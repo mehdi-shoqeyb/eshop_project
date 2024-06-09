@@ -1,7 +1,7 @@
 # eshop_proejct
 
 ## [preview]
-![Uploading _-GoogleChrome2024-06-0917-02-00-ezgif.com-video-to-gif-converter.gif…]()
+![_-GoogleChrome2024-06-0917-02-00-ezgif com-video-to-gif-converter](https://github.com/mehdi-shoqeyb/eshop_proejct/assets/168349368/18ffd468-0dee-4c04-ba0f-62ac18d22e06)
 
 ## Running the Project Locally
 
