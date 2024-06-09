@@ -1,5 +1,11 @@
 # eshop_proejct
 
+## [demo](https://djangowhatsapp.herokuapp.com/)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuhailvs%2Fdjango-whatsapp&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+![demo](https://raw.github.com/suhailvs/django-whatsapp/main/demo.gif)
 ## Running the Project Locally
 
 0. First, clone the repository to your local machine:
