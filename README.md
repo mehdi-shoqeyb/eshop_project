@@ -1,4 +1,4 @@
-# eshop_proejct
+# eshop_project
 
 ## [preview]
 
