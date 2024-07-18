@@ -11,7 +11,7 @@
 0. First, clone the repository to your local machine:
 ```bash
 https://github.com/mehdi-shoqeyb/eshop_project.git
-cd eshop_proejct
+cd eshop_project
 ```
 
 1. Ideally, create a [virtualenv](https://docs.python-guide.org/dev/virtualenvs/) and install the projects dependencies:
